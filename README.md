@@ -1,3 +1,5 @@
+> [!WARNING]
+> This project is no longer maintained or has been moved to [github.com/InledGroup](https://github.com/InledGroup) or [github.com/Inled-Pulsar-OS](https://github.com/Inled-Pulsar-OS)
 # Warp VPN GUI
 Inicia la VPN de Cloudflare de forma visual como en Windows.  
 ¿No se te da bien la terminal?  
